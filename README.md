@@ -13,6 +13,7 @@
     * https://www.creativebloq.com/3d-tips/blender-tutorials-1232739
 ### Books
 * The Book of Shaders
+* [WebGL Insights](http://www.webglinsights.com)
 ### Tutorials
 * https://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/
 ### Videos

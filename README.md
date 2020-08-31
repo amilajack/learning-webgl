@@ -45,7 +45,7 @@
     * Three.js always requires the following:
         * Camera, material, perspective 
     * Materials
-        * Describe the apperance of something
+        * Describe the appearance of something
         * Shaders can be passed to materials
     * Geometry
         * Mesh is an object that takes a Geometry and applies a Material to it
@@ -81,7 +81,7 @@
         * They can be created using blender
 
 
-### 3D Recosntruction
+### 3D Reconstruction
 * https://github.com/cdcseacave/openMVS
 * https://github.com/cdcseacave/openMVS/wiki/Usage
 

@@ -26,6 +26,9 @@
 * https://www.ibiblio.org/e-notes/webgl/gpu/contents.htm
 * https://github.com/jbouny/fft-ocean
 
+### 📃 WebGL API Reference
+* [MDN WebGL API Docs](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
+
 ## Three.js
 * http://stemkoski.github.io/Three.js/
 
